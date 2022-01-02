@@ -43,6 +43,15 @@ To keep everyone follow the rule, we have to use the donation to pay for the gas
 
 Please note, this cryptocurrency project only for a society experiment, anyone should not invest their fiat money on this crypto! We also recommend that you can use it for your daily life. 
 
-**Why should this coin has this rules? What is the purpose for this puppy coin?**
+**Why should this coin has these rules? What is the purpose for this puppy coin?**
 
 Let everyone on the earth use the crypto in their daily life, no worry about the inflation.
+
+**If I was already 58 years old, how many coins can I get?**
+
+If your birthday is Jun 12, 1964. After your idendity get verified, Let's assume your idendity get through on April 10, 2022. From April 12, 2022, Your
+ own wallet will get 100 puppy coin in every month, On Jun 12, 2064, you will receive the last 100 free puppy coin in that day. Since Jun 12, 2064,  you will no more receive the free puppy coin.
+ 
+ **Who can decide the token disctribution?**
+ 
+ A decentralized orgnization run this society experiment. After each user get verified, The token disctribution will based on the smart contract.
