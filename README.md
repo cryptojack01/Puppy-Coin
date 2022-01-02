@@ -28,8 +28,12 @@ Puppy coin is a cryptocurrency for everyone in the world.
 
 **Donation Address:**
 
-solana: 5jkUjKvS3bh4aFpZUc342pDi87bwzD2CCvMS2KkEstQb
-bnb(BEP20): 0x37b2EDC7bBc3b9714b17c3A6D4cE936949505856
+* solana: 5jkUjKvS3bh4aFpZUc342pDi87bwzD2CCvMS2KkEstQb
+* bnb(BEP20): 0x37b2EDC7bBc3b9714b17c3A6D4cE936949505856
+
+* * *
+
+**FAQ**
 
 **If there is no donation, how can I get the free puppy coin?**
 
