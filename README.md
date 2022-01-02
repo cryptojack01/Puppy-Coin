@@ -1,3 +1,5 @@
+![image](https://raw.githubusercontent.com/cryptojack01/Puppy-Coin/main/image/realpuppycoin.png)
+
 # Puppy-Coin
 Puppy coin is a cryptocurrency for everyone in the world.
 
